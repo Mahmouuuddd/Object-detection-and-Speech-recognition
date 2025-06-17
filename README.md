@@ -10,4 +10,6 @@ You Only Look Once (YOLO) is a state-of-the-art, real-time object detection algo
 
 The SSD MobileNet V2 TFLite model is commonly used for object detection tasks on edge devices.
 
+The test.py code is for the first test for our code
 
+The final_test.py code is for the final test mode 
