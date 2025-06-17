@@ -17,14 +17,6 @@ bench
 bird
 cat
 dog
-horse
-sheep
-cow
-elephant
-bear
-zebra
-giraffe
-None
 backpack
 umbrella
 None29
@@ -62,8 +54,6 @@ donut
 cake
 chair
 sofa
-pottedplant
-bed
 None66
 diningtable
 None68
@@ -84,8 +74,3 @@ refrigerator
 None83
 book
 clock
-vase
-scissors
-teddy bear
-hair drier
-toothbrush
